@@ -1,4 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-print "holle word"
+print('hello world')
+#python 3.0 使用('')
+#2.0使用""
